@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/flames-react/static/css/main.97b36723.css",
+    "main.js": "/flames-react/static/js/main.73d976b1.js",
+    "static/js/787.428f1f37.chunk.js": "/flames-react/static/js/787.428f1f37.chunk.js",
+    "static/media/love-wallpapers.jpg": "/flames-react/static/media/love-wallpapers.347b86383ed63e0e2091.jpg",
+    "index.html": "/flames-react/index.html",
+    "main.97b36723.css.map": "/flames-react/static/css/main.97b36723.css.map",
+    "main.73d976b1.js.map": "/flames-react/static/js/main.73d976b1.js.map",
+    "787.428f1f37.chunk.js.map": "/flames-react/static/js/787.428f1f37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97b36723.css",
+    "static/js/main.73d976b1.js"
+  ]
+}
